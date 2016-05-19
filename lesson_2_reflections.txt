@@ -3,3 +3,9 @@
 A git folder gets created in the directory. You need to do it in order to use
 git with the files you have.
 
+- How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area is an intermediate place between the directory and the 
+repository. It offers flexibility over which files to commit at once.
+
